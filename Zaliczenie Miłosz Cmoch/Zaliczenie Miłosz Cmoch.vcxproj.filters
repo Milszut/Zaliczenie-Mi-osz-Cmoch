@@ -18,5 +18,13 @@
     <ClCompile Include="Zaliczenie Miłosz Cmoch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="samochod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="samochod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
